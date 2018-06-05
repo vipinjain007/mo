@@ -1,0 +1,49 @@
+{
+	"team": [{
+			"id": "1",
+			"name": "Chennai Super Kings",
+			"description": "description",
+			"city": "Chennai"
+		},
+		{
+			"id": "2",
+			"name": "Delhi Daredevils",
+			"description": "description",
+			"city": "Delhi"
+
+		},
+		{
+			"id": "3",
+			"name": "Kings XI Punjab",
+			"description": "description",
+			"city": "Punjab"
+
+		},
+		{
+			"id": "4",
+			"name": "Kolkata Knight Riders",
+			"description": "description",
+			"city": "Kolkata"
+
+		},
+		{
+			"id": "5",
+			"name": "Mumbai Indians",
+			"description": "description",
+			"city": "Mumbai"
+
+		},
+		{
+			"id": "6",
+			"name": "Rajasthan Royals",
+			"description": "description",
+			"city": "Rajasthan"
+		},
+		{
+			"id": "7",
+			"name": "Royal Challengers Bangalore",
+			"description": "description",
+			"city": "Bangalore"
+		}
+	]
+}
